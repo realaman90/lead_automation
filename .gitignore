@@ -1,4 +1,4 @@
-.ev
+.env
 .env.local
 .env.development.local
 .env.test.local
@@ -8,3 +8,4 @@
 .env.production
 .venv
 .DS_Store
+data/
